@@ -1,0 +1,9 @@
+[submodule "bridge-node"]
+	path = bridge-node
+	url = https://github.com/hager3737/bridge-node.git
+[submodule "mailbox-node"]
+	path = mailbox-node
+	url = https://github.com/hager3737/mailbox-node.git
+[submodule "smart-home-web-app"]
+	path = smart-home-web-app
+	url = https://github.com/hager3737/smart-home-web-app.git

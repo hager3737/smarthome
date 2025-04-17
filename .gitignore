@@ -1,0 +1,93 @@
+.vscode/
+
+
+# mailbox-node:
+
+# Ignore build and CMake files
+mailbox-node/esp32-lora-transmitter/build/
+mailbox-node/esp32-lora-transmitter/CMakeFiles/
+mailbox-node/esp32-lora-transmitter/cmake-build-debug/
+mailbox-node/esp32-lora-transmitter/.esp-idf/
+mailbox-node/esp32-lora-transmitter/pytest_hello_world.py
+
+# Ignore IDE-specific files
+mailbox-node/esp32-lora-transmitter/.devcontainer/
+mailbox-node/esp32-lora-transmitter/.vscode/
+mailbox-node/esp32-lora-transmitter/.idea/
+
+# Ignore platform-specific files
+mailbox-node/esp32-lora-transmitter/*.exe
+mailbox-node/esp32-lora-transmitter/*.out
+mailbox-node/esp32-lora-transmitter/*.dmg
+
+# Ignore user-specific or backup files
+mailbox-node/esp32-lora-transmitter/*.swp
+mailbox-node/esp32-lora-transmitter/*.bak
+mailbox-node/esp32-lora-transmitter/*~
+
+
+# bridge-node:
+
+# Ignore build and CMake files
+bridge-node/esp32-lora-transmitter/build/
+bridge-node/esp32-lora-transmitter/CMakeFiles/
+bridge-node/esp32-lora-transmitter/cmake-build-debug/
+bridge-node/esp32-lora-transmitter/.esp-idf/
+bridge-node/esp32-lora-transmitter/pytest_hello_world.py
+
+# Ignore IDE-specific files
+bridge-node/esp32-lora-transmitter/.devcontainer/
+bridge-node/esp32-lora-transmitter/.vscode/
+bridge-node/esp32-lora-transmitter/.idea/
+
+# Ignore platform-specific files
+bridge-node/esp32-lora-transmitter/*.exe
+bridge-node/esp32-lora-transmitter/*.out
+bridge-node/esp32-lora-transmitter/*.dmg
+
+# Ignore user-specific or backup files
+bridge-node/esp32-lora-transmitter/*.swp
+bridge-node/esp32-lora-transmitter/*.bak
+bridge-node/esp32-lora-transmitter/*~
+
+# smart-home-web-app
+
+# dependencies
+smart-home-web-app/node_modules
+smart-home-web-app/.pnp
+smart-home-web-app/.pnp.*
+smart-home-web-app/.yarn/*
+smart-home-web-app/!.yarn/patches
+smart-home-web-app/!.yarn/plugins
+smart-home-web-app/!.yarn/releases
+smart-home-web-app/!.yarn/versions
+
+# testing
+smart-home-web-app/coverage
+
+# next.js
+smart-home-web-app/.next/
+smart-home-web-app/out/
+
+# production
+smart-home-web-app/build
+
+# misc
+smart-home-web-app/.DS_Store
+smart-home-web-app/*.pem
+
+# debug
+smart-home-web-app/npm-debug.log*
+smart-home-web-app/yarn-debug.log*
+smart-home-web-app/yarn-error.log*
+smart-home-web-app/.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+smart-home-web-app/.env*
+
+# vercel
+smart-home-web-app/.vercel
+
+# typescript
+smart-home-web-app/*.tsbuildinfo
+smart-home-web-app/next-env.d.ts
