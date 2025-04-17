@@ -52,6 +52,10 @@ And, of course, I plan to add more IoT nodes in the future to increase the syste
 
 Throughout this project, I also gained valuable experience with Linux. I installed **Ubuntu Server LTS** on an old PC, which is now hosting the Next.js web application. Thanks to port forwarding, I can access my smart home system from anywhere in the world. This enables me to monitor my mailbox remotely and receive real-time notifications when I get mail. :)
 
+For more information about what each submodule do, please read their README.md files!
+
+Thanks for reading!!
+
 ---
 
 ### Contact
