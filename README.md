@@ -1,5 +1,11 @@
 # Hager Smart Home
 
+## Background
+
+I am currently studying Software Development for Embedded Systems and IoT. With a prior background in fullstack web development, I wanted to create a project that would allow me to combine these two skill sets into a complete and functional IoT solution.
+
+The idea behind this smart home system was to explore how hardware and software can work together to create meaningful, real-world services. I wanted to challenge myself with a project that involved both low-level programming on microcontrollers and high-level application development for the web. This project gave me the opportunity to build a system from the ground up—starting with soldering components and writing firmware, all the way to deploying a web interface accessible from anywhere in the world.
+
 ## Project Overview
 
 This project is a smart home system that integrates multiple microcontroller (MCU) nodes to monitor and control various aspects of a home environment. At the core of the system, I use ESP32-based devices to handle tasks like motion detection, environmental monitoring, and communication between devices.
