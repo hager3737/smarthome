@@ -17,10 +17,13 @@ Future updates will include adding more MCU nodes to extend the system’s funct
 ## Tech Used
 
 - **Hardware**:
-    - ESP32 Wroom-32
-    - Ra-02 SX1278 LoRa-chip
-    - PIR Motion Sensor
-    - SMA Antenna
+    - **ESP32 NodeMCU Dev Kit C**  
+    - **SX1278 433 MHz Ra-02 LoRa module**  
+    - **IPEX to SMA adapter cable**  
+    - **433 MHz SMA antenna (10 dBi)**  
+    - **PIR Motion Sensor** 
+    - **3.7V 2600 mAh lithium battery**
+    - **AMS1117 3,3V voltage converter**
 
 - **Software**:
     - Next.js
