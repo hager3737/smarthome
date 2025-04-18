@@ -47,6 +47,7 @@ This project is still in its early stages, and below are the features and functi
 ### For the Microcontrollers:
 - Easy provisioning, enabling users to easily configure Wi-Fi for the devices.
 - Encryption of data sent between the ESP32 devices via LoRa to enhance security.
+- Implementation of FOTA for each ESP32.
 
 ### For the Web Application:
 - User registration and login functionality.
