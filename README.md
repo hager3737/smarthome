@@ -68,6 +68,14 @@ Thanks for reading!!
 
 ---
 
+## Photos
+
+![Mailbox Node](images/image1.jpg)
+![Bridge Node](images/image2.jpg)
+![Frontend](images/image3.jpg)
+
+---
+
 ### Contact
 
 - **Email**: Johannbonde@hotmail.com  
